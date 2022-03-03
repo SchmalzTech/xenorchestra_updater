@@ -2,6 +2,8 @@
 
 A simple tool to pull Xen Orchestra updates and apply the settings to your XO installation.
 
+Modified to pull from SchmalzTech Repo, not Vates. Currently want to pull ps-whitelabel branch with -b ps-whitelabel argument.
+
 # Problems?
 
 Check out our [Troubleshooting Page](https://github.com/Jarli01/xenorchestra_updater/blob/master/TROUBLESHOOTING.md)!
